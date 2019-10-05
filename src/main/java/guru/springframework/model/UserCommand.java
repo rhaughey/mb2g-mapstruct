@@ -11,6 +11,7 @@ public class UserCommand {
     public UserCommand() {
     }
 
+
     public UserCommand(String firstName, String lastName, String email) {
         this.firstName = firstName;
         this.lastName = lastName;
